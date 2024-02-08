@@ -1,0 +1,22 @@
+# lists/gnet.yml
+
+acronyms:
+  - acronym: DKI APCSS
+    meaning: Daniel K. Inouye Asia-Pacific Center for Security Studies
+    aka:
+      - Asia-Pacific Center
+      - APC
+      - DKI
+    context: DKI APCSS is a GlobalNet partner
+    urls:
+      - https://globalnetplatform.org/apcss
+    description: |
+      The Daniel K. Inouye Asia-Pacific Center for Security Studies (DKI APCSS) is a U.S. Department of Defense institute that addresses regional and global security issues, inviting military and civilian representatives of the United States and Asia-Pacific nations to its comprehensive program of executive education and workshops, both in Hawaii and throughout the Asia-Pacific region.
+
+    notes:
+      - One of the larger globalnet partners
+      - Ask Bob about them
+
+    history:
+      created_at: 2024-02-01
+      updated_at: 2024-02-07
